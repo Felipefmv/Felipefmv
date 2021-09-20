@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Fernandes
-- 👀 I’m interested in study mobile development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning ReactJS
 - 📫 Reach me at Linkedin: linkedin.com/in/felipe-fernandes-a0865aaa
 
